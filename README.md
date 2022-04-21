@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[Personal website](https://tanguyandreani.me/)
+I'm a french student.
+
+[Personal website](https://tanguyandreani.me/) ➡
+[CV](https://ftp.cyberpunked.me/tanguy_andreani_cv.pdf)
 
 #### Notes
 
