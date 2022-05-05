@@ -3,7 +3,9 @@
 I'm a french student.
 
 [Personal website](https://tanguyandreani.me/) ➡
-[CV](https://ftp.cyberpunked.me/tanguy_andreani_cv.pdf)
+[CV](https://ftp.cyberpunked.me/tanguy_andreani_cv.pdf) ➡
+[blog](https://tanguyandreani.github.io/blog)
+
 
 #### Notes
 
