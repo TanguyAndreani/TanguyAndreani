@@ -1,3 +1,1 @@
-➡️ [blog](https://tanguyandreani.github.io/blog)
-
-➡️ [cv](https://tanguyandreani.me)
+➡️ [blog](https://tanguyandreani.github.io/blog) et [cv](https://tanguyandreani.me)
