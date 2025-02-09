@@ -1,1 +1,1 @@
-[blog](https://tanguyandreani.github.io/blog)
+[blog](https://tanguyandreani.github.io)
